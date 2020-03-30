@@ -23,7 +23,7 @@
     "hjs": "~0.0.6",
     "json-loader": "^0.5.4",
     "jsonwebtoken": "^7.4.3",
-    "mongoose": "^4.7.3",    
+    "mongoose": "^5.9.6",    
     "passport": "^0.3.2",
     "passport-github2": "^0.1.10",
     "passport-http": "*",
